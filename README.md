@@ -1,4 +1,4 @@
-# 🎈 OpenAi Leanring Hub
+# 🎈 OpenAi Learning Hub
 
 Beginner start on working with OpenAi api.
 
