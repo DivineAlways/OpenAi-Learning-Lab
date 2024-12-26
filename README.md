@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 OpenAi Leanring Hub
 
 A simple Streamlit app template for you to modify!
 
